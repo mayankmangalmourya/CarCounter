@@ -11,6 +11,23 @@ You may also notice that the vehicles will initially be detected and the counter
 
 ## Execution Step :
  - Clone this repository in your preferable IDE : like VScode, pycham etc.
- - 
  - Firstly open the requirements.txt file and install all the dependencies.
+ - Run defaultModel.py file in your IDE. Model is downloaded as name Yolov8s.pt
+ - Now Open the carCounter.py file set all the addresses of model as well as vedio.
+ - You can also use your own vedio but then you have to change mask and counterline.
+ - You can successfully run it.
+ - End.
+
+## Technology Used :
+ - Pycham
+ - OpenCV
+ - Ultralytics
+ - cvZone
+
+## IDE Used :
+ - Pycham.
+## Author : 
+ - Mayank Mangal Mourya
+### Contact : 
+- 202051116@iiitvadodara.ac.in
    
